@@ -1,0 +1,10 @@
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\bin\Debug\netcoreapp2.0\webApp.deps.json
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\bin\Debug\netcoreapp2.0\webApp.runtimeconfig.json
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\bin\Debug\netcoreapp2.0\webApp.runtimeconfig.dev.json
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\bin\Debug\netcoreapp2.0\webApp.dll
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\bin\Debug\netcoreapp2.0\webApp.pdb
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\obj\Debug\netcoreapp2.0\webApp.csproj.CoreCompileInputs.cache
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\obj\Debug\netcoreapp2.0\webApp.AssemblyInfoInputs.cache
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\obj\Debug\netcoreapp2.0\webApp.AssemblyInfo.cs
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\obj\Debug\netcoreapp2.0\webApp.dll
+E:\Hesam files\Dropbox\_-SCHOOL-_\LJ 4\Inhaal\INFANL21-9\webApp\obj\Debug\netcoreapp2.0\webApp.pdb
